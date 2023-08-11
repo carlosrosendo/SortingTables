@@ -1,1 +1,3 @@
 # SortingTables
+
+The python file here demonstrates opening a chrome browser using Selenium, Python and it demonstrates how to identify unique elements from a table when there are multiple tables shown. Adding all the items in a column into an empty list then impending to check the values. It also shows how to use Parent child relationships to identify the right table and it's contents when there are multiple tables. 
